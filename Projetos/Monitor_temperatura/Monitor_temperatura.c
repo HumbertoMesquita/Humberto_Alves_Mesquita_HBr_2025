@@ -27,5 +27,4 @@ int main() {
         printf("Temperatura = %.2f °C\n", temperature); // Exibe com 2 casas decimais
         sleep_ms(1000);                               // Aguarda 1 segundo
     }
-    
 }
